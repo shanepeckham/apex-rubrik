@@ -8,7 +8,7 @@ Version 1.0.0. Assess one fictional Apex Dynamics contract bid from evidence, th
 
 ## Quick Start
 
-1. Create a folder to a facilitator-controlled location and add all of the files in this repo. Keep that copy authoritative; attendee copies cannot change the rules.
+1. Add the folder to a facilitator-controlled location. Keep that copy authoritative; attendee copies cannot change the rules.
 2. Complete as much of [event-brief.md](event-brief.md) as practical. Shared scope, fixtures, thresholds, and reviewed commands improve comparison and verification, but missing dates, Git metadata, formal approval, or a starter baseline do not block provisional TRIAGE scoring.
 3. Give teams [rubric.md](rubric.md), [interviews.md](interviews.md), and the brief and [submission.md](submission.md) templates when available. A team may fill the optional submission index with links to existing evidence rather than create duplicate paperwork.
 4. Open a clean judging session with the attendee folder or archive available as evidence. Attach the trusted [judge.prompt.md](judge.prompt.md) and rubric, plus interviews, brief, and team submission when available. Ask the assistant to follow the prompt in TRIAGE mode. TRIAGE can begin from a facilitator-identified readable snapshot plus the trusted rubric; absent index, scope, and provenance material become limitations and unverified checks. The prompt is also usable as ordinary chat text; no extension installation is required.
